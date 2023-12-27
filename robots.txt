@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cuan55-jitu.de-rse.org/sitemap.xml
